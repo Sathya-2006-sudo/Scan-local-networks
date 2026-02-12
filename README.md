@@ -5,7 +5,7 @@
   - Nmap - Wireshark (optional)
 ## Steps Performed 
   1. Installed Nmap from the official website.
-  2. Identified local IP range (e.g., 192.168.1.0/24).
+  2. Identified local IP range in my ip address 10.153.218.62/24.
   3. Ran TCP SYN scan using:
   4. Recorded IP addresses and open ports.
   5. Optionally analyzed packet capture with Wireshark.

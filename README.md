@@ -14,5 +14,7 @@
   8. Saved scan results in text format.
 
 ## Outcome
+<img width="1366" height="733" alt="Screenshot_2026-02-12_22-08-55" src="https://github.com/user-attachments/assets/40bf86b5-e57d-4049-8230-cf7eccc3aa81" />
+
 - Gained basic network reconnaissance skills.
 - Understood network service exposure.
